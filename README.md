@@ -1,4 +1,4 @@
-`
+```
 
 Challenge for cleaning MySQL data 
 
@@ -111,7 +111,7 @@ ALTER TABLE staging_layoffs2
 DROP COLUMN row_num;
 
 SELECT * FROM staging_layoffs2;
-`
+```
 
 
 
